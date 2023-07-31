@@ -47,4 +47,4 @@ python run_temp_rel.py \
 run `run_eval.py` to aggregate results across experiments and visualize them in `aggregate_results.ipynb.
 
 # Citation
-We used code from `https://github.com/princeton-nlp/PURE` to build our model.
+We used code from `https://github.com/princeton-nlp/PURE` to build our model. Also for fair comparison we used the evaluation script provided by the [I2B2 challenge]((https://portal.dbmi.hms.harvard.edu/projects/n2c2-nlp/)) to calculate the evaluation metrics. 
