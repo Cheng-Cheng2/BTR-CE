@@ -1,0 +1,9 @@
+__pycache__/
+.ipynb_checkpoints/
+.vscode/
+*.py[cod]
+scierc_data/
+scierc_models/
+rel-scib-ctx0/
+i2b2_models/
+LICENSE
