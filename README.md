@@ -2,7 +2,7 @@
 This code repository is for our paper "Typed Markers and Context for clinical for Clinical Temporal Relation Extraction"
 
 ## Data preprocess
-refer to the `readme.sh` in `preprocess` for running the data preprocessing pipeline for i2b2.
+Refer to the `readme.sh` in `preprocess` for running the data preprocessing pipeline for i2b2.
 
 ## Train the model
 To reproduce the best result for I2B2 in the paper run:
@@ -44,7 +44,7 @@ python run_temp_rel.py \
 ```
 
 # Evaluation
-run `run_eval.py` to aggregate results across experiments and visualize them in `aggregate_results.ipynb.
+Run `run_eval.py` to aggregate results across experiments and visualize them in `aggregate_results.ipynb.
 
 # Citation
 We used code from `https://github.com/princeton-nlp/PURE` to build our model. Also for fair comparison we used the evaluation script provided by the [I2B2 challenge](https://portal.dbmi.hms.harvard.edu/projects/n2c2-nlp/) to calculate the evaluation metrics. 
